@@ -14,9 +14,14 @@ interface Item {
 }
 
 const items: Item[] = data as any;
+const RARITIES = ["Common", "Uncommon", "Rare", "Epic", "Legendary"];
 
 const getRarityColor = (rarity: string) => {
   switch (rarity.toLowerCase()) {
+    case "common":
+      return "bg-gray-500/10 text-gray-700 border-gray-200";
+    case "uncommon":
+      return "bg-green-500/10 text-green-700 border-green-200";
     case "rare":
       return "bg-blue-500/10 text-blue-700 border-blue-200";
     case "epic":
@@ -28,10 +33,41 @@ const getRarityColor = (rarity: string) => {
   }
 };
 
+const getRarityActiveColor = (rarity: string) => {
+  switch (rarity.toLowerCase()) {
+    case "common":
+      return "bg-gray-500 text-white border-gray-500";
+    case "uncommon":
+      return "bg-green-500 text-white border-green-500";
+    case "rare":
+      return "bg-blue-500 text-white border-blue-500";
+    case "epic":
+      return "bg-purple-500 text-white border-purple-500";
+    case "legendary":
+      return "bg-orange-500 text-white border-orange-500";
+    default:
+      return "bg-gray-500 text-white border-gray-500";
+  }
+};
+
 export default function App() {
   const [searchQuery, setSearchQuery] = useState("");
+  const [selectedRarities, setSelectedRarities] = useState<string[]>([]);
+
+  const toggleRarity = (rarity: string) => {
+    setSelectedRarities((prev) =>
+      prev.includes(rarity)
+        ? prev.filter((r) => r !== rarity)
+        : [...prev, rarity]
+    );
+  };
 
   const filteredItems = items.filter((item) => {
+    // Filter by rarity
+    if (selectedRarities.length > 0 && !selectedRarities.includes(item.rarity)) {
+      return false;
+    }
+
     if (!searchQuery) return true;
     const recyclesToString =
       item && item.recycles_to
@@ -41,14 +77,37 @@ export default function App() {
   });
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
+<div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
       <div className="max-w-4xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">
-          <h1 className="text-slate-900 mb-2">Arc Raiders Items</h1>
+          <h1 className="text-slate-900 mb-2">Arc Raiders Item Recycler</h1>
           <p className="text-slate-600">
-            Search and explore recyclable materials
+            Recycle smart, loot harder! Search the material you need, and we’ll show you what to break down to get it.
           </p>
+        </div>
+
+        {/* Rarity Filters */}
+        <div className="mb-6">
+          <span className="block text-slate-700 mb-3">
+            Filter by Rarity
+          </span>
+          <div className="flex flex-wrap gap-2">
+            {RARITIES.map((rarity) => (
+              <Badge
+                key={rarity}
+                variant="outline"
+                className={`cursor-pointer transition-all ${
+                  selectedRarities.includes(rarity)
+                    ? getRarityActiveColor(rarity)
+                    : getRarityColor(rarity)
+                }`}
+                onClick={() => toggleRarity(rarity)}
+              >
+                {rarity}
+              </Badge>
+            ))}
+          </div>
         </div>
 
         {/* Search Field */}
@@ -56,7 +115,7 @@ export default function App() {
           <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-slate-400 pointer-events-none" />
           <Input
             type="text"
-            placeholder="Search by 'recycles into'..."
+            placeholder="Search for a thang"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             className="pl-12 h-14 bg-white shadow-sm border-slate-200 focus-visible:ring-blue-500"
@@ -64,10 +123,9 @@ export default function App() {
         </div>
 
         {/* Results Count */}
-        {searchQuery && (
+        {(searchQuery || selectedRarities.length > 0) && (
           <div className="mb-4 text-slate-600">
-            Found {filteredItems.length}{" "}
-            {filteredItems.length === 1 ? "item" : "items"}
+            Found {filteredItems.length} {filteredItems.length === 1 ? "item" : "items"}
           </div>
         )}
 
@@ -79,7 +137,9 @@ export default function App() {
                 <Search className="w-8 h-8 text-slate-400" />
               </div>
               <h3 className="text-slate-900 mb-2">No items found</h3>
-              <p className="text-slate-500">Try adjusting your search terms</p>
+              <p className="text-slate-500">
+                Try adjusting your search terms
+              </p>
             </div>
           ) : (
             filteredItems.map((item, index) => (
@@ -108,11 +168,9 @@ export default function App() {
                     <div className="space-y-2">
                       {/* Recycles To */}
                       <div>
-                        <span className="text-slate-500 mr-2">
-                          Recycles into:
-                        </span>
+                        <span className="text-slate-500 mr-2">Recycles into:</span>
                         <span className="text-slate-700">
-                          {item && item.recycles_to
+                                  {item && item.recycles_to
                             ? Object.entries(item?.recycles_to)
                                 .map(
                                   ([material, count]) =>
@@ -127,15 +185,11 @@ export default function App() {
                       <div className="flex flex-wrap items-center gap-4 text-slate-500">
                         <div className="flex items-center gap-1">
                           <span>Category:</span>
-                          <span className="text-slate-700">
-                            {item.category}
-                          </span>
+                          <span className="text-slate-700">{item.category}</span>
                         </div>
                         <div className="flex items-center gap-1">
                           <span>Sell Price:</span>
-                          <span className="text-slate-700">
-                            {item.sell_price.toLocaleString()}
-                          </span>
+                          <span className="text-slate-700">{item.sell_price.toLocaleString()}</span>
                         </div>
                       </div>
                     </div>
