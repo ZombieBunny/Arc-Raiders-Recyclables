@@ -1,0 +1,11 @@
+
+  # Enhance Site Styling
+
+  This is a code bundle for Enhance Site Styling. The original project is available at https://www.figma.com/design/QbBc0SLN9jCzO87znWzSta/Enhance-Site-Styling.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  

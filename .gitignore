@@ -1,0 +1,39 @@
+# dependencies
+/node_modules
+
+# build outputs
+/build
+/dist
+/out
+/public
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# local development server
+.cache/
+.next/ # if using Next.js
+.parcel-cache/ # if using Parcel
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# miscellaneous
+*.log
+*.tgz
+*.zip
+*.rar
