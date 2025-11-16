@@ -1,7 +1,7 @@
 
   # Arc Raiders Recyclables
 
-  This is a code bundle for Enhance Site Styling. The original project is available at https://www.figma.com/design/QbBc0SLN9jCzO87znWzSta/Enhance-Site-Styling.
+Need a part? search and see what you need to recycle to get that part!
 
   ## Running the code
 
