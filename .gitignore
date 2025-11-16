@@ -2,7 +2,7 @@
 /node_modules
 
 # build outputs
-/build
+# /build
 /dist
 /out
 /public
