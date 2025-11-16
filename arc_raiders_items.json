@@ -1,0 +1,972 @@
+[
+  {
+    "name": "Advanced ARC Powercell",
+    "rarity": "Rare",
+    "recycles_to": { "ARC Powercell": 2 },
+    "sell_price": 640,
+    "category": "Topside Material"
+  },
+  {
+    "name": "Advanced Electrical Components",
+    "rarity": "Rare",
+    "recycles_to": { "Electrical Components": 1, "Wires": 1 },
+    "sell_price": 1750,
+    "category": "Refined Material"
+  },
+  {
+    "name": "Advanced Mechanical Components",
+    "rarity": "Rare",
+    "recycles_to": { "Mechanical Components": 1, "Steel Spring": 1 },
+    "sell_price": 1750,
+    "category": "Refined Material"
+  },
+  {
+    "name": "Agave",
+    "rarity": "Uncommon",
+    "recycles_to": null,
+    "sell_price": 1000,
+    "category": "Nature"
+  },
+  {
+    "name": "Agave Juice",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 1800,
+    "category": "Quick Use"
+  },
+  {
+    "name": "Air Freshener",
+    "rarity": "Uncommon",
+    "recycles_to": null,
+    "sell_price": 2000,
+    "category": "Trinket"
+  },
+  {
+    "name": "Alarm Clock",
+    "rarity": "Rare",
+    "recycles_to": { "Plastic Parts": 6, "Processor": 1 },
+    "sell_price": 1000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Antiseptic",
+    "rarity": "Rare",
+    "recycles_to": { "Chemicals": 10 },
+    "sell_price": 1000,
+    "category": "Refined Material"
+  },
+  {
+    "name": "Apricot",
+    "rarity": "Uncommon",
+    "recycles_to": { "Assorted Seeds": 3 },
+    "sell_price": 640,
+    "category": "Nature"
+  },
+  {
+    "name": "ARC Alloy",
+    "rarity": "Uncommon",
+    "recycles_to": { "Metal Parts": 2 },
+    "sell_price": 200,
+    "category": "Topside Material"
+  },
+  {
+    "name": "ARC Circuitry",
+    "rarity": "Rare",
+    "recycles_to": { "ARC Alloy": 2 },
+    "sell_price": 1000,
+    "category": "Topside Material"
+  },
+  {
+    "name": "ARC Coolant",
+    "rarity": "Rare",
+    "recycles_to": { "Chemicals": 16 },
+    "sell_price": 1000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "ARC Flex Rubber",
+    "rarity": "Rare",
+    "recycles_to": { "Rubber Parts": 16 },
+    "sell_price": 1000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "ARC Motion Core",
+    "rarity": "Rare",
+    "recycles_to": { "ARC Alloy": 2 },
+    "sell_price": 1000,
+    "category": "Topside Material"
+  },
+  {
+    "name": "ARC Performance Steel",
+    "rarity": "Rare",
+    "recycles_to": { "Metal Parts": 12 },
+    "sell_price": 1000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "ARC Powercell",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 640,
+    "category": "Misc"
+  },
+  {
+    "name": "ARC Synthetic Resin",
+    "rarity": "Rare",
+    "recycles_to": { "Plastic Parts": 14 },
+    "sell_price": 1000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "ARC Thermo Lining",
+    "rarity": "Rare",
+    "recycles_to": { "Fabric": 16 },
+    "sell_price": 1000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Assorted Seeds",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 100,
+    "category": "Nature"
+  },
+  {
+    "name": "Bastion Cell",
+    "rarity": "Epic",
+    "recycles_to": { "ARC Alloy": 2, "Advanced Mechanical Components": 2 },
+    "sell_price": 5000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Battery Pack",
+    "rarity": "Common",
+    "recycles_to": { "Wires": 1 },
+    "sell_price": 200,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Bear Claw",
+    "rarity": "Uncommon",
+    "recycles_to": null,
+    "sell_price": 1000,
+    "category": "Trinket"
+  },
+  {
+    "name": "Binoculars",
+    "rarity": "Rare",
+    "recycles_to": { "Plastic Parts": 6, "Glass": 3 },
+    "sell_price": 1000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Blueprint Bundle",
+    "rarity": "Epic",
+    "recycles_to": null,
+    "sell_price": 2500,
+    "category": "Misc"
+  },
+  {
+    "name": "Bottled Water",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 150,
+    "category": "Quick Use"
+  },
+  {
+    "name": "Broken Drone Part",
+    "rarity": "Rare",
+    "recycles_to": { "Mechanical Components": 2, "ARC Alloy": 1 },
+    "sell_price": 1000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Bronze Collectible Coin",
+    "rarity": "Uncommon",
+    "recycles_to": null,
+    "sell_price": 2000,
+    "category": "Trinket"
+  },
+  {
+    "name": "Camera Lens",
+    "rarity": "Rare",
+    "recycles_to": { "Glass": 4, "Plastic Parts": 4 },
+    "sell_price": 1000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Carrot",
+    "rarity": "Uncommon",
+    "recycles_to": { "Assorted Seeds": 3 },
+    "sell_price": 640,
+    "category": "Nature"
+  },
+  {
+    "name": "Canned Food",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 150,
+    "category": "Quick Use"
+  },
+  {
+    "name": "Canteen",
+    "rarity": "Uncommon",
+    "recycles_to": { "Metal Parts": 3 },
+    "sell_price": 750,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Ceramic Plate",
+    "rarity": "Common",
+    "recycles_to": { "Ceramics": 2 },
+    "sell_price": 300,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Chemicals",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 200,
+    "category": "Base Material"
+  },
+  {
+    "name": "Chocolate Bar",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 150,
+    "category": "Quick Use"
+  },
+  {
+    "name": "Circuit Board",
+    "rarity": "Uncommon",
+    "recycles_to": { "Wires": 2, "Processor": 1 },
+    "sell_price": 500,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Cloth Scrap",
+    "rarity": "Common",
+    "recycles_to": { "Fabric": 1 },
+    "sell_price": 150,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Coffee Beans",
+    "rarity": "Uncommon",
+    "recycles_to": null,
+    "sell_price": 1000,
+    "category": "Nature"
+  },
+  {
+    "name": "Coins",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 150,
+    "category": "Misc"
+  },
+  {
+    "name": "Combat Knife",
+    "rarity": "Uncommon",
+    "recycles_to": { "Metal Parts": 4 },
+    "sell_price": 750,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Computer Fan",
+    "rarity": "Uncommon",
+    "recycles_to": { "Plastic Parts": 3, "Wires": 1 },
+    "sell_price": 750,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Battery",
+    "rarity": "Uncommon",
+    "recycles_to": { "Metal Parts": 2 },
+    "sell_price": 250,
+    "category": "Topside Material"
+  },
+  {
+    "name": "Bicycle Pump",
+    "rarity": "Rare",
+    "recycles_to": { "Canister": 4, "Metal Parts": 10 },
+    "sell_price": 2000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Bloated Tuna Can",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 1000,
+    "category": "Trinket"
+  },
+  {
+    "name": "Dried-Out ARC Resin",
+    "rarity": "Uncommon",
+    "recycles_to": { "Plastic Parts": 9 },
+    "sell_price": 640,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Duct Tape",
+    "rarity": "Uncommon",
+    "recycles_to": { "Fabric": 3 },
+    "sell_price": 300,
+    "category": "Topside Material"
+  },
+  {
+    "name": "Durable Cloth",
+    "rarity": "Uncommon",
+    "recycles_to": { "Fabric": 6 },
+    "sell_price": 640,
+    "category": "Refined Material"
+  },
+  {
+    "name": "Electrical Components",
+    "rarity": "Uncommon",
+    "recycles_to": { "Plastic Parts": 3, "Rubber Parts": 3 },
+    "sell_price": 640,
+    "category": "Refined Material"
+  },
+  {
+    "name": "Empty Wine Bottle",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 1000,
+    "category": "Trinket"
+  },
+  {
+    "name": "Exodus Module",
+    "rarity": "Epic",
+    "recycles_to": { "Magnet": 2, "Mechanical Components": 1 },
+    "sell_price": 2750,
+    "category": "Topside Material"
+  },
+  {
+    "name": "Expired Pasta",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 1000,
+    "category": "Trinket"
+  },
+  {
+    "name": "Expired Respirator",
+    "rarity": "Rare",
+    "recycles_to": { "Rubber Parts": 8, "Fabric": 4 },
+    "sell_price": 640,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Explosive Compound",
+    "rarity": "Rare",
+    "recycles_to": { "Crude Explosives": 2 },
+    "sell_price": 1000,
+    "category": "Refined Material"
+  },
+  {
+    "name": "Fabric",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 50,
+    "category": "Basic Material"
+  },
+  {
+    "name": "Faded Photograph",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 640,
+    "category": "Trinket"
+  },
+  {
+    "name": "Fertilizer",
+    "rarity": "Uncommon",
+    "recycles_to": { "Assorted Seeds": 2 },
+    "sell_price": 1000,
+    "category": "Nature"
+  },
+  {
+    "name": "Film Reel",
+    "rarity": "Rare",
+    "recycles_to": null,
+    "sell_price": 2000,
+    "category": "Trinket"
+  },
+  {
+    "name": "Fine Wristwatch",
+    "rarity": "Rare",
+    "recycles_to": null,
+    "sell_price": 3000,
+    "category": "Trinket"
+  },
+  {
+    "name": "Fireball Burner",
+    "rarity": "Uncommon",
+    "recycles_to": { "ARC Alloy": 1, "Crude Explosives": 1 },
+    "sell_price": 640,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Flow Controller",
+    "rarity": "Rare",
+    "recycles_to": { "Advanced Mechanical Components": 1, "Sensors": 1 },
+    "sell_price": 3000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Frequency Modulation Box",
+    "rarity": "Rare",
+    "recycles_to": {
+      "Advanced Electrical Components": 1,
+      "Speaker Component": 1
+    },
+    "sell_price": 3000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Fried Motherboard",
+    "rarity": "Rare",
+    "recycles_to": { "Plastic Parts": 5, "Electrical Components": 2 },
+    "sell_price": 2000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Frozen Stew",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 150,
+    "category": "Quick Use"
+  },
+  {
+    "name": "Fuel Cell",
+    "rarity": "Rare",
+    "recycles_to": { "Chemical": 4, "Canister": 2 },
+    "sell_price": 2000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Glass",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 50,
+    "category": "Basic Material"
+  },
+  {
+    "name": "Goggles",
+    "rarity": "Uncommon",
+    "recycles_to": { "Glass": 2, "Rubber Parts": 2 },
+    "sell_price": 640,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Golden Compass",
+    "rarity": "Epic",
+    "recycles_to": null,
+    "sell_price": 4500,
+    "category": "Trinket"
+  },
+  {
+    "name": "Hammer",
+    "rarity": "Uncommon",
+    "recycles_to": { "Metal Parts": 5 },
+    "sell_price": 640,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Hand Drill",
+    "rarity": "Rare",
+    "recycles_to": { "Metal Parts": 10, "Wires": 1 },
+    "sell_price": 2000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Handwritten Letter",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 640,
+    "category": "Trinket"
+  },
+  {
+    "name": "Heated Wire Spool",
+    "rarity": "Rare",
+    "recycles_to": { "Wires": 8 },
+    "sell_price": 1000,
+    "category": "Refined Material"
+  },
+  {
+    "name": "Herbal Tincture",
+    "rarity": "Uncommon",
+    "recycles_to": null,
+    "sell_price": 1000,
+    "category": "Quick Use"
+  },
+  {
+    "name": "High-Density Fiber",
+    "rarity": "Rare",
+    "recycles_to": { "Fabric": 10 },
+    "sell_price": 1000,
+    "category": "Refined Material"
+  },
+  {
+    "name": "Hunting Knife",
+    "rarity": "Uncommon",
+    "recycles_to": { "Metal Parts": 4 },
+    "sell_price": 640,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Hydration Kit",
+    "rarity": "Rare",
+    "recycles_to": { "Plastic Parts": 6 },
+    "sell_price": 2000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Iron Filing Box",
+    "rarity": "Uncommon",
+    "recycles_to": { "Metal Parts": 4 },
+    "sell_price": 750,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Jam Jar",
+    "rarity": "Common",
+    "recycles_to": { "Glass": 1 },
+    "sell_price": 200,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Junked Camera",
+    "rarity": "Uncommon",
+    "recycles_to": { "Plastic Parts": 3, "Glass": 1 },
+    "sell_price": 750,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Leather Scraps",
+    "rarity": "Common",
+    "recycles_to": { "Fabric": 1 },
+    "sell_price": 150,
+    "category": "Basic Material"
+  },
+  {
+    "name": "Lighter",
+    "rarity": "Uncommon",
+    "recycles_to": { "Canister": 1 },
+    "sell_price": 640,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Lockbox",
+    "rarity": "Rare",
+    "recycles_to": { "Metal Parts": 12 },
+    "sell_price": 2000,
+    "category": "Recyclable"
+  },
+  {
+    "name": "Loose Electronics",
+    "rarity": "Uncommon",
+    "recycles_to": { "Wires": 1, "Plastic Parts": 2 },
+    "sell_price": 300,
+    "category": "Topside Material"
+  },
+  {
+    "name": "Hydraulic Actuator",
+    "rarity": "Rare",
+    "category": "Machine Part",
+    "sell_price": 620,
+    "buy_price": 1240,
+    "description": "A compact actuator used in precision robotics, salvageable from RA machine limbs.",
+    "found_in": ["Broken RA units", "Industrial wreckages", "Overseers"],
+    "used_for": ["Workshop crafting", "Mechanisms"]
+  },
+  {
+    "name": "Memory Fragment",
+    "rarity": "Rare",
+    "category": "Electronic Component",
+    "sell_price": 640,
+    "buy_price": 1280,
+    "description": "A data shard containing corrupted RA routines. Sometimes partially readable.",
+    "found_in": ["Dismantled Observers", "Tech Ruins", "Signal anomalies"],
+    "used_for": ["High-tier upgrades", "Data reconstruction projects"]
+  },
+  {
+    "name": "Conductor Coil",
+    "rarity": "Rare",
+    "category": "Electronic Component",
+    "sell_price": 560,
+    "buy_price": 1120,
+    "description": "A precision coil designed for power modulation.",
+    "found_in": ["RA power nodes", "Abandoned facilities"],
+    "used_for": ["Energy-based equipment", "Workshop projects"]
+  },
+  {
+    "name": "Ballistic Gel",
+    "rarity": "Rare",
+    "category": "Chemical Material",
+    "sell_price": 520,
+    "buy_price": 1040,
+    "description": "A reactive gel that absorbs kinetic shocks.",
+    "found_in": ["Medical ruins", "Research labs"],
+    "used_for": ["Armor reinforcement", "Shield materials"]
+  },
+  {
+    "name": "Transceiver Node",
+    "rarity": "Rare",
+    "category": "Electronic Component",
+    "sell_price": 650,
+    "buy_price": 1300,
+    "description": "A communications capsule capable of short-range encrypted bursts.",
+    "found_in": ["Signal towers", "Observer units"],
+    "used_for": ["Signal crafting", "Advanced comms"]
+  },
+  {
+    "name": "Kinetic Regulator",
+    "rarity": "Epic",
+    "category": "Machine Part",
+    "sell_price": 980,
+    "buy_price": 1960,
+    "description": "A precision-built regulator that stabilizes high-energy movement.",
+    "found_in": ["RA elite units", "High-tier machine drops"],
+    "used_for": ["Epic weapon crafting", "Motion systems"]
+  },
+  {
+    "name": "Neural Processor",
+    "rarity": "Epic",
+    "category": "Electronic Component",
+    "sell_price": 1000,
+    "buy_price": 2000,
+    "description": "A high-capacity processor responsible for RA decision pathways.",
+    "found_in": ["RA command units", "Vault caches"],
+    "used_for": ["Top-tier crafting", "Neural-linked tech"]
+  },
+  {
+    "name": "Thermal Regulator",
+    "rarity": "Epic",
+    "category": "Machine Part",
+    "sell_price": 940,
+    "buy_price": 1880,
+    "description": "Controls thermal output for heavy RA systems.",
+    "found_in": ["Engine cores", "Industrial complexes"],
+    "used_for": ["High-grade armor", "Thermal gear"]
+  },
+  {
+    "name": "Flux Capacitor",
+    "rarity": "Epic",
+    "category": "Electronic Component",
+    "sell_price": 1050,
+    "buy_price": 2100,
+    "description": "A rare energy stabilizer able to hold immense charge.",
+    "found_in": ["Energy nodes", "RA elite drops"],
+    "used_for": ["Power weapons", "Energy reactors"]
+  },
+  {
+    "name": "Adaptive Armor Plate",
+    "rarity": "Epic",
+    "category": "Armor Component",
+    "sell_price": 1100,
+    "buy_price": 2200,
+    "description": "A plate capable of reconfiguring its tension based on incoming threats.",
+    "found_in": ["Juggernaut units", "Destroyed bunkers"],
+    "used_for": ["Epic armor crafting", "Advanced reinforcement"]
+  },
+  {
+    "name": "Olives",
+    "rarity": "Uncommon",
+    "recycles_to": { "Assorted Seeds": 2 },
+    "sell_price": 640,
+    "category": "Nature",
+    "keep_for_workshop": { "Scrappy Level 4": 8 },
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Painted Box",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 2000,
+    "category": "Trinket",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Plastic Parts",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 60,
+    "category": "Basic Material",
+    "keep_for_workshop": { "Gear Bench I": 25, "Utility Station I": 50 },
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Playing Cards",
+    "rarity": "Rare",
+    "recycles_to": null,
+    "sell_price": 5000,
+    "category": "Trinket",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Pottery",
+    "rarity": "Uncommon",
+    "recycles_to": null,
+    "sell_price": 2000,
+    "category": "Trinket",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Polluted Air Filter",
+    "rarity": "Rare",
+    "recycles_to": { "Fabric": 6, "Oil": 2 },
+    "sell_price": 1000,
+    "category": "Recyclable",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Pop Trigger",
+    "rarity": "Common",
+    "recycles_to": { "Crude Explosives": 1, "ARC Alloy": 1 },
+    "sell_price": 640,
+    "category": "Recyclable",
+    "keep_for_workshop": { "Explosives Station II": 5 },
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Portable TV",
+    "rarity": "Rare",
+    "recycles_to": { "Wires": 6, "Battery": 2 },
+    "sell_price": 2000,
+    "category": "Recyclable",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Poster of Natural Wonders",
+    "rarity": "Uncommon",
+    "recycles_to": null,
+    "sell_price": 2000,
+    "category": "Trinket",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Power Bank",
+    "rarity": "Rare",
+    "recycles_to": { "Battery": 2, "Wires": 2 },
+    "sell_price": 1000,
+    "category": "Recyclable",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Power Cable",
+    "rarity": "Rare",
+    "recycles_to": { "Wires": 4 },
+    "sell_price": 1000,
+    "category": "Recyclable",
+    "keep_for_workshop": { "Gear Bench II": 3 },
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Power Rod",
+    "rarity": "Epic",
+    "recycles_to": { "Advanced Electrical Components": 1, "ARC Circuitry": 1 },
+    "sell_price": 5500,
+    "category": "Advanced Material",
+    "keep_for_workshop": null,
+    "keep_for_quests": { "Tribute to Toledo": 1 },
+    "keep_for_projects": null
+  },
+  {
+    "name": "Prickly Pear",
+    "rarity": "Uncommon",
+    "recycles_to": null,
+    "sell_price": 640,
+    "category": "Misc",
+    "keep_for_workshop": { "Scrappy Level 4": 8 },
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Processor",
+    "rarity": "Rare",
+    "recycles_to": { "Wires": 1, "Plastic Parts": 1 },
+    "sell_price": 500,
+    "category": "Topside Material",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Projector",
+    "rarity": "Rare",
+    "recycles_to": { "Wires": 2, "Processor": 1 },
+    "sell_price": 1000,
+    "category": "Recyclable",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Syringe",
+    "rarity": "Rare",
+    "recycles_to": { "Plastic Parts": 3, "Chemicals": 2 },
+    "sell_price": 500,
+    "category": "Topside Material",
+    "keep_for_workshop": null,
+    "keep_for_quests": { "Doctor's Orders": 1 },
+    "keep_for_projects": null
+  },
+  {
+    "name": "Tattered ARC Lining",
+    "rarity": "Uncommon",
+    "recycles_to": { "Fabric": 12 },
+    "sell_price": 640,
+    "category": "Recyclable",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Tattered Clothes",
+    "rarity": "Uncommon",
+    "recycles_to": { "Fabric": 11 },
+    "sell_price": 640,
+    "category": "Recyclable",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Telemetry Transceiver",
+    "rarity": "Rare",
+    "recycles_to": { "Advanced Electrical Components": 1, "Processor": 1 },
+    "sell_price": 3000,
+    "category": "Recyclable",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Thermostat",
+    "rarity": "Rare",
+    "recycles_to": { "Rubber Parts": 7, "Sensors": 1 },
+    "sell_price": 1000,
+    "category": "Recyclable",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Tick Pod",
+    "rarity": "Uncommon",
+    "recycles_to": { "ARC Alloy": 2, "Chemicals": 2 },
+    "sell_price": 640,
+    "category": "Recyclable",
+    "keep_for_workshop": { "Medical Lab II": 8 },
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Toaster",
+    "rarity": "Rare",
+    "recycles_to": { "Plastic Parts": 5, "Wires": 3 },
+    "sell_price": 640,
+    "category": "Recyclable",
+    "keep_for_workshop": { "Refiner II": 3 },
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Torn Book",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 1000,
+    "category": "Trinket",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Torn Blanket",
+    "rarity": "Rare",
+    "recycles_to": { "Fabric": 12 },
+    "sell_price": 640,
+    "category": "Recyclable",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Turbo Pump",
+    "rarity": "Rare",
+    "recycles_to": { "Mechanical Components": 1, "Oil": 3 },
+    "sell_price": 2000,
+    "category": "Recyclable",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Unusable Weapon",
+    "rarity": "Rare",
+    "recycles_to": { "Metal Parts": 4, "Simple Gun Parts": 5 },
+    "sell_price": 2000,
+    "category": "Recyclable",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Vase",
+    "rarity": "Rare",
+    "recycles_to": null,
+    "sell_price": 3000,
+    "category": "Trinket",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Very Comfortable Pillow",
+    "rarity": "Uncommon",
+    "recycles_to": null,
+    "sell_price": 2000,
+    "category": "Trinket",
+    "keep_for_workshop": { "Scrappy Level 5": 3 },
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Volcanic Rock",
+    "rarity": "Common",
+    "recycles_to": null,
+    "sell_price": 270,
+    "category": "Misc",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  },
+  {
+    "name": "Voltage Converter",
+    "rarity": "Rare",
+    "recycles_to": { "Wires": 1, "Rubber Parts": 1 },
+    "sell_price": 500,
+    "category": "Topside Material",
+    "keep_for_workshop": null,
+    "keep_for_quests": null,
+    "keep_for_projects": null
+  }
+]
