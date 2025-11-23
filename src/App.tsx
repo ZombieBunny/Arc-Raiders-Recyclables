@@ -9,6 +9,7 @@ interface Item {
   name: string;
   rarity: string;
   recycles_to: string;
+  keep_for_quests_workshop: string;
   // recycles_to: Record<string, number>;
   sell_price: number;
   category: string;
@@ -153,7 +154,7 @@ export default function App() {
                   {/* Icon/Image Placeholder */}
                   <div className="flex-shrink-0 w-16 h-16 bg-gradient-to-br from-slate-100 to-slate-200 rounded-lg flex items-center justify-center">
                     {/* <Package className="w-8 h-8 text-slate-400" /> */}
-                    <img src={item.image}/>
+                    <img src={item.image} className="flex"/>
                   </div>
 
                   {/* Content */}
@@ -173,17 +174,18 @@ export default function App() {
                       <div>
                         <span className="text-slate-500 mr-2">Recycles into:</span>
                         <span className="text-slate-700">
-                                  {item && item.recycles_to ? item?.recycles_to : "none"}
-                                  {/* {item && item.recycles_to
-                            ? Object.entries(item?.recycles_to)
-                                .map(
-                                  ([material, count]) =>
-                                    `${material} (×${count})`
-                                )
-                                .join(", ")
-                            : "none"} */}
+                            {item && item.recycles_to ? item?.recycles_to : "none"}
                         </span>
                       </div>
+                      {item && item.keep_for_quests_workshop ? 
+                      <div>
+                        <span className="text-slate-500 mr-2">Keep for quests:</span>
+                        <span className="text-slate-700">
+                            {item.keep_for_quests_workshop}
+                        </span>
+                      </div>
+                       : ""}
+
 
                       {/* Additional Info */}
                       <div className="flex flex-wrap items-center gap-4 text-slate-500">
