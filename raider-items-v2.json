@@ -1,0 +1,2142 @@
+[
+  {
+    "name": "Advanced ARC Powercell",
+    "rarity": "Rare",
+    "recycles_to": "2x ARC Powercell",
+    "sell_price": 640,
+    "max_stack_size": 5,
+    "category": "Misc",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Advanced_ARC_Powercell.png"
+  },
+  {
+    "name": "Advanced Electrical Components",
+    "rarity": "Rare",
+    "recycles_to": "1x Electrical Components, 1x Wires",
+    "sell_price": 1750,
+    "max_stack_size": 5,
+    "category": "Advanced Material",
+    "keep_for_quests_workshop": "5x Workshop, 5x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Advanced_Electrical_Components.png"
+  },
+  {
+    "name": "Advanced Mechanical Components",
+    "rarity": "Rare",
+    "recycles_to": "1x Mechanical Components, 1x Wires",
+    "sell_price": 1750,
+    "max_stack_size": 5,
+    "category": "Advanced Material",
+    "keep_for_quests_workshop": "5x Workshop, 5x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Advanced_Mechanical_Components.png"
+  },
+  {
+    "name": "Agave",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Assorted Seeds",
+    "sell_price": 1000,
+    "max_stack_size": 10,
+    "category": "Nature",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Agave.png"
+  },
+  {
+    "name": "Air Freshener",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 2000,
+    "max_stack_size": 15,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Air_Freshener.png"
+  },
+  {
+    "name": "Alarm Clock",
+    "rarity": "Rare",
+    "recycles_to": "1x Processor, 6x Plastic Parts",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Alarm_Clock.png"
+  },
+  {
+    "name": "Antiseptic",
+    "rarity": "Rare",
+    "recycles_to": "10x Chemicals",
+    "sell_price": 1000,
+    "max_stack_size": 5,
+    "category": "Refined Material",
+    "keep_for_quests_workshop": "8x Workshop, 2x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Antiseptic.png"
+  },
+  {
+    "name": "Apricot",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Assorted Seeds",
+    "sell_price": 640,
+    "max_stack_size": 10,
+    "category": "Nature",
+    "keep_for_quests_workshop": "15x Scrappy",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Apricot.png"
+  },
+  {
+    "name": "ARC Alloy",
+    "rarity": "Uncommon",
+    "recycles_to": "2x Metal Parts",
+    "sell_price": 200,
+    "max_stack_size": 15,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "18x Workshop, 80x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/ARC_Alloy.png"
+  },
+  {
+    "name": "ARC Circuitry",
+    "rarity": "Rare",
+    "recycles_to": "2x ARC Alloy",
+    "sell_price": 1000,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "10x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/ARC_Circuitry.png"
+  },
+  {
+    "name": "ARC Coolant",
+    "rarity": "Rare",
+    "recycles_to": "16x Chemicals",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/ARC_Coolant.png"
+  },
+  {
+    "name": "ARC Flex Rubber",
+    "rarity": "Rare",
+    "recycles_to": "16x Rubber Parts",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/ARC_Flex_Rubber.png"
+  },
+  {
+    "name": "ARC Motion Core",
+    "rarity": "Rare",
+    "recycles_to": "2x ARC Alloy",
+    "sell_price": 1000,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "5x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/ARC_Motion_Core.png"
+  },
+  {
+    "name": "ARC Performance Steel",
+    "rarity": "Rare",
+    "recycles_to": "12x Metal Parts",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/ARC_Performance_Steel.png"
+  },
+  {
+    "name": "ARC Powercell",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 270,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "5x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/ARC_Powercell.png"
+  },
+  {
+    "name": "ARC Synthetic Resin",
+    "rarity": "Rare",
+    "recycles_to": "14x Plastic Parts",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/ARC_Synthetic_Resin.png"
+  },
+  {
+    "name": "ARC Thermo Lining",
+    "rarity": "Rare",
+    "recycles_to": "16x Fabric",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/ARC_Thermo_Lining.png"
+  },
+  {
+    "name": "Assorted Seeds",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 100,
+    "category": "Nature",
+    "keep_for_quests_workshop": "Currency for Celeste",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Assorted_Seeds.png"
+  },
+  {
+    "name": "Bastion Cell",
+    "rarity": "Epic",
+    "recycles_to": "2x ARC Motion Core, 2x Advanced Mechanical Components",
+    "sell_price": 5000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "6x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Bastion_Cell.png"
+  },
+  {
+    "name": "Battery",
+    "rarity": "Uncommon",
+    "recycles_to": "2x Metal Parts",
+    "sell_price": 250,
+    "max_stack_size": 15,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "30x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Battery.png"
+  },
+  {
+    "name": "Bicycle Pump",
+    "rarity": "Rare",
+    "recycles_to": "4x Canister, 10x Metal Parts",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Bicycle_Pump.png"
+  },
+  {
+    "name": "Bloated Tuna Can",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 1000,
+    "max_stack_size": 15,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Bloated_Tuna_Can.png"
+  },
+  {
+    "name": "Blue Gate Communication Tower Key",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Blue_Gate_Communication_Tower_Key.png"
+  },
+  {
+    "name": "Blue Gate Confiscation Room Key",
+    "rarity": "Epic",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Blue_Gate_Confiscation_Room_Key.png"
+  },
+  {
+    "name": "Blue Gate Cellar Key",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Blue_Gate_Cellar_Key.png"
+  },
+  {
+    "name": "Blue Gate Village Key",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Blue_Gate_Village_Key.png"
+  },
+  {
+    "name": "Bombardier Cell",
+    "rarity": "Epic",
+    "recycles_to": "2x Advanced Mechanical Components, 2x ARC Alloy",
+    "sell_price": 5000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "6x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Bombardier_Cell.png"
+  },
+  {
+    "name": "Breathtaking Snow Globe",
+    "rarity": "Epic",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 7000,
+    "max_stack_size": 1,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Breathtaking_Snow_Globe.png"
+  },
+  {
+    "name": "Broken Flashlight",
+    "rarity": "Rare",
+    "recycles_to": "2x Battery, 6x Metal Parts",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Broken_Flashlight.png"
+  },
+  {
+    "name": "Broken Guidance System",
+    "rarity": "Rare",
+    "recycles_to": "4x Processor",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Broken_Guidance_System.png"
+  },
+  {
+    "name": "Broken Handheld Radio",
+    "rarity": "Rare",
+    "recycles_to": "3x Sensors, 3x Wires",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Broken_Handheld_Radio.png"
+  },
+  {
+    "name": "Broken Taser",
+    "rarity": "Rare",
+    "recycles_to": "2x Battery, 2x Wires",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Broken_Taser.png"
+  },
+  {
+    "name": "Buried City Hospital Key",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Buried_City_Hospital_Key.png"
+  },
+  {
+    "name": "Buried City JKV Employee Access Card",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Buried_City_JKV_Employee_Access_Card.png"
+  },
+  {
+    "name": "Buried City Residential Mastery Key",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Buried_City_Residential_Mastery_Key.png"
+  },
+  {
+    "name": "Buried City Town Hall Key",
+    "rarity": "Epic",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Buried_City_Town_Hall_Key.png"
+  },
+  {
+    "name": "Burned ARC Circuitry",
+    "rarity": "Uncommon",
+    "recycles_to": "2x ARC Alloy",
+    "sell_price": 640,
+    "max_stack_size": 5,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Burned_ARC_Circuitry.png"
+  },
+  {
+    "name": "Camera Lens",
+    "rarity": "Uncommon",
+    "recycles_to": "8x Plastic Parts",
+    "sell_price": 640,
+    "max_stack_size": 5,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Camera_Lens.png"
+  },
+  {
+    "name": "Candle Holder",
+    "rarity": "Uncommon",
+    "recycles_to": "8x Metal Parts",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Candle_Holder.png"
+  },
+  {
+    "name": "Canister",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Plastic Parts",
+    "sell_price": 300,
+    "max_stack_size": 15,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Canister.png"
+  },
+  {
+    "name": "Cat Bed",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "1x Scrappy",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Cat_Bed.png"
+  },
+  {
+    "name": "Chemicals",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 50,
+    "max_stack_size": 50,
+    "category": "Basic Material",
+    "keep_for_quests_workshop": "50x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Chemicals.png"
+  },
+  {
+    "name": "Coffee Pot",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Coffee_Pot.png"
+  },
+  {
+    "name": "Complex Gun Parts",
+    "rarity": "Epic",
+    "recycles_to": "3x Simple Gun Parts",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Complex_Gun_Parts.png"
+  },
+  {
+    "name": "Coolant",
+    "rarity": "Rare",
+    "recycles_to": "5x Chemicals, 2x Oil",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Coolant.png"
+  },
+  {
+    "name": "Cooling Coil",
+    "rarity": "Rare",
+    "recycles_to": "6x Chemicals, 2x Steel Spring",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Cooling_Coil.png"
+  },
+  {
+    "name": "Cooling Fan",
+    "rarity": "Rare",
+    "recycles_to": "14x Plastic Parts, 4x Battery",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "5x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Cooling_Fan.png"
+  },
+  {
+    "name": "Cracked Bioscanner",
+    "rarity": "Rare",
+    "recycles_to": "3x Rubber Parts, 5x Battery",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "2x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Cracked_Bioscanner.png"
+  },
+  {
+    "name": "Crude Explosives",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Chemicals",
+    "sell_price": 270,
+    "max_stack_size": 10,
+    "category": "Refined Material",
+    "keep_for_quests_workshop": "5x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Crude_Explosives.png"
+  },
+  {
+    "name": "Crumpled Plastic Bottle",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Plastic Parts",
+    "sell_price": 270,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Crumpled_Plastic_Bottle.png"
+  },
+  {
+    "name": "Dam Control Tower Key",
+    "rarity": "Epic",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Dam_Control_Tower_Key.png"
+  },
+  {
+    "name": "Dam Staff Room Key",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Dam_Staff_Room_Key.png"
+  },
+  {
+    "name": "Dam Surveillance Key",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Dam_Surveillance_Key.png"
+  },
+  {
+    "name": "Dam Testing Annex Key",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Dam_Testing_Annex_Key.png"
+  },
+  {
+    "name": "Dam Utility Key",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Dam_Utility_Key.png"
+  },
+  {
+    "name": "Damaged ARC Motion Core",
+    "rarity": "Uncommon",
+    "recycles_to": "2x ARC Alloy",
+    "sell_price": 640,
+    "max_stack_size": 5,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Damaged_ARC_Motion_Core.png"
+  },
+  {
+    "name": "Damaged ARC Powercell",
+    "rarity": "Common",
+    "recycles_to": "1x ARC Alloy",
+    "sell_price": 293,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Damaged_ARC_Powercell.png"
+  },
+  {
+    "name": "Damaged Fireball Burner",
+    "rarity": "Common",
+    "recycles_to": "1x ARC Alloy",
+    "sell_price": 270,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Damaged_Fireball_Burner.png"
+  },
+  {
+    "name": "Damaged Heat Sink",
+    "rarity": "Rare",
+    "recycles_to": "6x Metal Parts, 2x Wires",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "2x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Damaged_Heat_Sink.png"
+  },
+  {
+    "name": "Damaged Hornet Driver",
+    "rarity": "Common",
+    "recycles_to": "2x ARC Alloy",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Damaged_Hornet_Driver.png"
+  },
+  {
+    "name": "Damaged Rocketeer Driver",
+    "rarity": "Common",
+    "recycles_to": "3x ARC Alloy",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Damaged_Rocketeer_Driver.png"
+  },
+  {
+    "name": "Damaged Snitch Scanner",
+    "rarity": "Common",
+    "recycles_to": "-",
+    "sell_price": 659,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Damaged_Snitch_Scanner.png"
+  },
+  {
+    "name": "Damaged Tick Pod",
+    "rarity": "Common",
+    "recycles_to": "1x ARC Alloy",
+    "sell_price": 270,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Damaged_Tick_Pod.png"
+  },
+  {
+    "name": "Damaged Wasp Driver",
+    "rarity": "Common",
+    "recycles_to": "1x ARC Alloy",
+    "sell_price": 270,
+    "max_stack_size": 1,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Damaged_Wasp_Driver.png"
+  },
+  {
+    "name": "Dart Board",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Dart_Board.png"
+  },
+  {
+    "name": "Deflated Football",
+    "rarity": "Uncommon",
+    "recycles_to": "15x Rubber Parts",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Deflated_Football.png"
+  },
+  {
+    "name": "Degraded ARC Rubber",
+    "rarity": "Uncommon",
+    "recycles_to": "11x Rubber Parts",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Degraded_ARC_Rubber.png"
+  },
+  {
+    "name": "Diving Goggles",
+    "rarity": "Rare",
+    "recycles_to": "12x Rubber Parts",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Diving_Goggles.png"
+  },
+  {
+    "name": "Dog Collar",
+    "rarity": "Rare",
+    "recycles_to": "8x Fabric, 1x Metal Parts",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "1x Scrappy",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Dog_Collar.png"
+  },
+  {
+    "name": "Dried-Out ARC Resin",
+    "rarity": "Uncommon",
+    "recycles_to": "9x Plastic Parts",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Dried-Out_ARC_Resin.png"
+  },
+  {
+    "name": "Duct Tape",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Fabric",
+    "sell_price": 300,
+    "max_stack_size": 15,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Duct_Tape.png"
+  },
+  {
+    "name": "Durable Cloth",
+    "rarity": "Uncommon",
+    "recycles_to": "6x Fabric",
+    "sell_price": 640,
+    "max_stack_size": 10,
+    "category": "Refined Material",
+    "keep_for_quests_workshop": "5x Workshop, 35x Expedition, 1x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Durable_Cloth.png"
+  },
+  {
+    "name": "Electrical Components",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Plastic Parts, 3x Rubber Parts",
+    "sell_price": 640,
+    "max_stack_size": 10,
+    "category": "Refined Material",
+    "keep_for_quests_workshop": "10x Workshop, 30x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Electrical_Components.png"
+  },
+  {
+    "name": "Empty Wine Bottle",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 1000,
+    "max_stack_size": 5,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Empty_Wine_Bottle.png"
+  },
+  {
+    "name": "Exodus Modules",
+    "rarity": "Epic",
+    "recycles_to": "2x Magnet, 1x Mechanical Components",
+    "sell_price": 2750,
+    "max_stack_size": 3,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "1x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Exodus_Modules.png"
+  },
+  {
+    "name": "Expired Pasta",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 1000,
+    "max_stack_size": 15,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Expired_Pasta.png"
+  },
+  {
+    "name": "Expired Respirator",
+    "rarity": "Rare",
+    "recycles_to": "8x Rubber Parts, 4x Fabric",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Expired_Respirator.png"
+  },
+  {
+    "name": "Explosive Compound",
+    "rarity": "Rare",
+    "recycles_to": "2x Crude Explosives",
+    "sell_price": 1000,
+    "max_stack_size": 5,
+    "category": "Refined Material",
+    "keep_for_quests_workshop": "5x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Explosive_Compound.png"
+  },
+  {
+    "name": "Fabric",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 50,
+    "max_stack_size": 50,
+    "category": "Basic Material",
+    "keep_for_quests_workshop": "80x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Fabric.png"
+  },
+  {
+    "name": "Faded Photograph",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 640,
+    "max_stack_size": 15,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "2x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Faded_Photograph.png"
+  },
+  {
+    "name": "Fertilizer",
+    "rarity": "Uncommon",
+    "recycles_to": "2x Assorted Seeds",
+    "sell_price": 1000,
+    "max_stack_size": 5,
+    "category": "Nature",
+    "keep_for_quests_workshop": "1x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Fertilizer.png"
+  },
+  {
+    "name": "Film Reel",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "1x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Film_Reel.png"
+  },
+  {
+    "name": "Fine Wristwatch",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Fine_Wristwatch.png"
+  },
+  {
+    "name": "Fireball Burner",
+    "rarity": "Uncommon",
+    "recycles_to": "1x ARC Alloy, 1x Chemicals",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "8x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Fireball_Burner.png"
+  },
+  {
+    "name": "Frequency Modulation Box",
+    "rarity": "Rare",
+    "recycles_to": "1x Advanced Electrical Components, 1x Speaker Component",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Frequency_Modulation_Box.png"
+  },
+  {
+    "name": "Fried Motherboard",
+    "rarity": "Rare",
+    "recycles_to": "5x Plastic Parts, 1x Electrical Components",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "3x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Fried_Motherboard.png"
+  },
+  {
+    "name": "Frying Pan",
+    "rarity": "Rare",
+    "recycles_to": "8x Metal Parts",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Frying_Pan.png"
+  },
+  {
+    "name": "Garlic Press",
+    "rarity": "Uncommon",
+    "recycles_to": "12x Metal Parts",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Garlic_Press.png"
+  },
+  {
+    "name": "Geiger Counter",
+    "rarity": "Epic",
+    "recycles_to": "3x Battery, 1x Exodus Modules",
+    "sell_price": 3500,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Geiger_Counter.png"
+  },
+  {
+    "name": "Great Mullein",
+    "rarity": "Uncommon",
+    "recycles_to": "4x Assorted Seeds",
+    "sell_price": 300,
+    "max_stack_size": 15,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "1x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Great_Mullein.png"
+  },
+  {
+    "name": "Headphones",
+    "rarity": "Rare",
+    "recycles_to": "6x Rubber Parts, 2x Speaker Component",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Headphones.png"
+  },
+  {
+    "name": "Heavy Gun Parts",
+    "rarity": "Rare",
+    "recycles_to": "2x Simple Gun Parts",
+    "sell_price": 700,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Heavy_Gun_Parts.png"
+  },
+  {
+    "name": "Hornet Driver",
+    "rarity": "Rare",
+    "recycles_to": "2x ARC Alloy, 2x Electrical Components",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "5x Workshop, 2x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Hornet_Driver.png"
+  },
+  {
+    "name": "Household Cleaner",
+    "rarity": "Uncommon",
+    "recycles_to": "13x Chemicals",
+    "sell_price": 640,
+    "max_stack_size": 5,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Household_Cleaner.png"
+  },
+  {
+    "name": "Humidifier",
+    "rarity": "Rare",
+    "recycles_to": "2x Canister, 2x Wires",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "5x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Humidifier.png"
+  },
+  {
+    "name": "Ice Cream Scooper",
+    "rarity": "Uncommon",
+    "recycles_to": "7x Metal Parts",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Ice_Cream_Scooper.png"
+  },
+  {
+    "name": "Impure ARC Coolant",
+    "rarity": "Uncommon",
+    "recycles_to": "13x Chemicals",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Impure_ARC_Coolant.png"
+  },
+  {
+    "name": "Industrial Battery",
+    "rarity": "Rare",
+    "recycles_to": "7x Chemicals, 2x Battery",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "3x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Industrial_Battery.png"
+  },
+  {
+    "name": "Industrial Charger",
+    "rarity": "Rare",
+    "recycles_to": "5x Metal Parts, 1x Voltage Converter",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Industrial_Charger.png"
+  },
+  {
+    "name": "Industrial Magnet",
+    "rarity": "Rare",
+    "recycles_to": "2x Magnet, 4x Metal Parts",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Industrial_Magnet.png"
+  },
+  {
+    "name": "Ion Sputter",
+    "rarity": "Epic",
+    "recycles_to": "4x Voltage Converter, 1x Exodus Modules",
+    "sell_price": 6000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Ion_Sputter.png"
+  },
+  {
+    "name": "Laboratory Reagents",
+    "rarity": "Rare",
+    "recycles_to": "2x Chemicals, 2x Crude Explosives",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "3x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Laboratory_Reagents.png"
+  },
+  {
+    "name": "Lance's Mixtape (5th Edition)",
+    "rarity": "Epic",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 10000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Lance's_Mixtape_(5th_Edition).png"
+  },
+  {
+    "name": "Lemon",
+    "rarity": "Common",
+    "recycles_to": "3x Assorted Seeds",
+    "sell_price": 640,
+    "max_stack_size": 10,
+    "category": "Nature",
+    "keep_for_quests_workshop": "3x Scrappy",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Lemon.png"
+  },
+  {
+    "name": "Leaper Pulse Unit",
+    "rarity": "Epic",
+    "recycles_to": "2x Advanced Mechanical Components, 3x ARC Alloy",
+    "sell_price": 5000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "3x Expedition, 4x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Leaper_Pulse_Unit.png"
+  },
+  {
+    "name": "Light Bulb",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "5x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Light_Bulb.png"
+  },
+  {
+    "name": "Light Gun Parts",
+    "rarity": "Rare",
+    "recycles_to": "2x Simple Gun Parts",
+    "sell_price": 700,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Light_Gun_Parts.png"
+  },
+  {
+    "name": "Magnet",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Metal Parts",
+    "sell_price": 300,
+    "max_stack_size": 15,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Magnet.png"
+  },
+  {
+    "name": "Magnetic Accelerator",
+    "rarity": "Epic",
+    "recycles_to": "1x Advanced Mechanical Components, 1x ARC Motion Core",
+    "sell_price": 5500,
+    "max_stack_size": 3,
+    "category": "Refined Material",
+    "keep_for_quests_workshop": "3x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Magnetic_Accelerator.png"
+  },
+  {
+    "name": "Magnetron",
+    "rarity": "Epic",
+    "recycles_to": "1x Magnetic Accelerator, 1x Steel Spring",
+    "sell_price": 6000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "1x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Magnetron.png"
+  },
+  {
+    "name": "Matriarch Reactor",
+    "rarity": "Legendary",
+    "recycles_to": "1x Power Rod, 1x Magnetic Accelerator",
+    "sell_price": 13000,
+    "max_stack_size": 1,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Matriarch_Reactor.png"
+  },
+  {
+    "name": "Mechanical Components",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Metal Parts, 2x Rubber Parts",
+    "sell_price": 640,
+    "max_stack_size": 10,
+    "category": "Refined Material",
+    "keep_for_quests_workshop": "5x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Mechanical_Components.png"
+  },
+  {
+    "name": "Medium Gun Parts",
+    "rarity": "Rare",
+    "recycles_to": "2x Simple Gun Parts",
+    "sell_price": 700,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Medium_Gun_Parts.png"
+  },
+  {
+    "name": "Metal Brackets",
+    "rarity": "Uncommon",
+    "recycles_to": "8x Metal Parts",
+    "sell_price": 640,
+    "max_stack_size": 5,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Metal_Brackets.png"
+  },
+  {
+    "name": "Metal Parts",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 75,
+    "max_stack_size": 50,
+    "category": "Basic Material",
+    "keep_for_quests_workshop": "80x Workshop, 150x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Metal_Parts.png"
+  },
+  {
+    "name": "Microscope",
+    "rarity": "Rare",
+    "recycles_to": "1x Advanced Mechanical Components, 3x Magnet",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Microscope.png"
+  },
+  {
+    "name": "Mini Centrifuge",
+    "rarity": "Rare",
+    "recycles_to": "1x Advanced Mechanical Components, 2x Canister",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Mini_Centrifuge.png"
+  },
+  {
+    "name": "Mod Components",
+    "rarity": "Epic",
+    "recycles_to": "1x Mechanical Components, 1x Steel Spring",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Advanced Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Mod_Components.png"
+  },
+  {
+    "name": "Moss",
+    "rarity": "Rare",
+    "recycles_to": "3x Assorted Seeds",
+    "sell_price": 500,
+    "max_stack_size": 10,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Moss.png"
+  },
+  {
+    "name": "Motor",
+    "rarity": "Rare",
+    "recycles_to": "2x Oil, 2x Mechanical Components",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "3x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Motor.png"
+  },
+  {
+    "name": "Mushroom",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 1000,
+    "max_stack_size": 10,
+    "category": "Nature",
+    "keep_for_quests_workshop": "12x Scrappy",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Mushroom.png"
+  },
+  {
+    "name": "Music Album",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Music_Album.png"
+  },
+  {
+    "name": "Music Box",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 5000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Music_Box.png"
+  },
+  {
+    "name": "Number Plate",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Metal Parts",
+    "sell_price": 270,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Number_Plate.png"
+  },
+  {
+    "name": "Oil",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Chemicals",
+    "sell_price": 300,
+    "max_stack_size": 15,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Oil.png"
+  },
+  {
+    "name": "Olives",
+    "rarity": "Common",
+    "recycles_to": "2x Assorted Seeds",
+    "sell_price": 640,
+    "max_stack_size": 10,
+    "category": "Nature",
+    "keep_for_quests_workshop": "6x Scrappy",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Olives.png"
+  },
+  {
+    "name": "Painted Box",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Painted_Box.png"
+  },
+  {
+    "name": "Patrol Car Key",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Patrol_Car_Key.png"
+  },
+  {
+    "name": "Plastic Parts",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 60,
+    "max_stack_size": 50,
+    "category": "Basic Material",
+    "keep_for_quests_workshop": "75x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Plastic_Parts.png"
+  },
+  {
+    "name": "Playing Cards",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 5000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Playing_Cards.png"
+  },
+  {
+    "name": "Polluted Air Filter",
+    "rarity": "Rare",
+    "recycles_to": "6x Fabric, 2x Oil",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Polluted_Air_Filter.png"
+  },
+  {
+    "name": "Pop Trigger",
+    "rarity": "Common",
+    "recycles_to": "1x Crude Explosives, 1x ARC Alloy",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "5x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Pop_Trigger.png"
+  },
+  {
+    "name": "Portable TV",
+    "rarity": "Rare",
+    "recycles_to": "2x Battery, 6x Wires",
+    "sell_price": 2000,
+    "max_stack_size": 1,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Portable_TV.png"
+  },
+  {
+    "name": "Poster of Natural Wonders",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Poster_of_Natural_Wonders.png"
+  },
+  {
+    "name": "Pottery",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Pottery.png"
+  },
+  {
+    "name": "Power Bank",
+    "rarity": "Rare",
+    "recycles_to": "2x Battery, 2x Wires",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Power_Bank.png"
+  },
+  {
+    "name": "Power Cable",
+    "rarity": "Rare",
+    "recycles_to": "4x Wires",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "3x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Power_Cable.png"
+  },
+  {
+    "name": "Power Rod",
+    "rarity": "Epic",
+    "recycles_to": "1x Advanced Electrical Components, 1x ARC Circuitry",
+    "sell_price": 5500,
+    "max_stack_size": 3,
+    "category": "Advanced Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Power_Rod.png"
+  },
+  {
+    "name": "Prickly Pear",
+    "rarity": "Common",
+    "recycles_to": "3x Assorted Seeds",
+    "sell_price": 640,
+    "max_stack_size": 10,
+    "category": "Nature",
+    "keep_for_quests_workshop": "6x Scrappy",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Prickly_Pear.png"
+  },
+  {
+    "name": "Processor",
+    "rarity": "Rare",
+    "recycles_to": "1x Wires, 1x Plastic Parts",
+    "sell_price": 500,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Processor.png"
+  },
+  {
+    "name": "Projector",
+    "rarity": "Rare",
+    "recycles_to": "1x Processor, 2x Wires",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Projector.png"
+  },
+  {
+    "name": "Queen Reactor",
+    "rarity": "Legendary",
+    "recycles_to": "1x Power Rod, 1x Magnetic Accelerator",
+    "sell_price": 13000,
+    "max_stack_size": 1,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Queen_Reactor.png"
+  },
+  {
+    "name": "Radio",
+    "rarity": "Rare",
+    "recycles_to": "1x Speaker Component, 1x Sensors",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Radio.png"
+  },
+  {
+    "name": "Radio Relay",
+    "rarity": "Rare",
+    "recycles_to": "2x Speaker Component, 2x Sensors",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Radio_Relay.png"
+  },
+  {
+    "name": "Raider Hatch Key",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 1000,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Raider_Hatch_Key.png"
+  },
+  {
+    "name": "Red Coral Jewelry",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 5000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Red_Coral_Jewelry.png"
+  },
+  {
+    "name": "Remote Control",
+    "rarity": "Uncommon",
+    "recycles_to": "2x Plastic Parts, 1x Sensors",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Remote_Control.png"
+  },
+  {
+    "name": "Resin",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 1000,
+    "max_stack_size": 10,
+    "category": "Nature",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Resin.png"
+  },
+  {
+    "name": "Ripped Safety Vest",
+    "rarity": "Uncommon",
+    "recycles_to": "1x Magnet, 1x Durable Cloth",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Ripped_Safety_Vest.png"
+  },
+  {
+    "name": "Rocket Thruster",
+    "rarity": "Rare",
+    "recycles_to": "2x Synthesized Fuel, 6x Metal Parts",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rocket_Thruster.png"
+  },
+  {
+    "name": "Rocketeer Driver",
+    "rarity": "Epic",
+    "recycles_to": "2x Advanced Electrical Components, 3x ARC Alloy",
+    "sell_price": 5000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "3x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rocketeer_Driver.png"
+  },
+  {
+    "name": "Roots",
+    "rarity": "Uncommon",
+    "recycles_to": "1x Assorted Seeds",
+    "sell_price": 640,
+    "max_stack_size": 10,
+    "category": "Nature",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Roots.png"
+  },
+  {
+    "name": "Rope",
+    "rarity": "Rare",
+    "recycles_to": "5x Fabric",
+    "sell_price": 500,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rope.png"
+  },
+  {
+    "name": "Rosary",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rosary.png"
+  },
+  {
+    "name": "Rotary Encoder",
+    "rarity": "Rare",
+    "recycles_to": "2x Electrical Components, 2x Processor",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rotary_Encoder.png"
+  },
+  {
+    "name": "Rubber Duck",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 1000,
+    "max_stack_size": 15,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rubber_Duck.png"
+  },
+  {
+    "name": "Rubber Pad",
+    "rarity": "Rare",
+    "recycles_to": "18x Rubber Parts",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rubber_Pad.png"
+  },
+  {
+    "name": "Rubber Parts",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 50,
+    "max_stack_size": 50,
+    "category": "Basic Material",
+    "keep_for_quests_workshop": "30x Workshop, 200x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rubber_Parts.png"
+  },
+  {
+    "name": "Ruined Accordion",
+    "rarity": "Rare",
+    "recycles_to": "18x Rubber Parts, 3x Steel Spring",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Ruined_Accordion.png"
+  },
+  {
+    "name": "Ruined Augment",
+    "rarity": "Common",
+    "recycles_to": "2x Plastic Parts, 2x Rubber Parts",
+    "sell_price": 270,
+    "max_stack_size": 1,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Ruined_Augment.png"
+  },
+  {
+    "name": "Ruined Baton",
+    "rarity": "Uncommon",
+    "recycles_to": "6x Metal Parts, 3x Rubber Parts",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Ruined_Baton.png"
+  },
+  {
+    "name": "Ruined Handcuffs",
+    "rarity": "Uncommon",
+    "recycles_to": "8x Metal Parts",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Ruined_Handcuffs.png"
+  },
+  {
+    "name": "Ruined Parachute",
+    "rarity": "Uncommon",
+    "recycles_to": "10x Fabric",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Ruined_Parachute.png"
+  },
+  {
+    "name": "Ruined Tactical Vest",
+    "rarity": "Uncommon",
+    "recycles_to": "5x Fabric, 1x Magnet",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Ruined_Tactical_Vest.png"
+  },
+  {
+    "name": "Ruined Riot Shield",
+    "rarity": "Rare",
+    "recycles_to": "10x Plastic Parts, 6x Rubber Parts",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Ruined_Riot_Shield.png"
+  },
+  {
+    "name": "Rusted Bolts",
+    "rarity": "Uncommon",
+    "recycles_to": "8x Metal Parts",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rusted_Bolts.png"
+  },
+  {
+    "name": "Rusted Gear",
+    "rarity": "Rare",
+    "recycles_to": "4x Metal Parts, 2x Mechanical Components",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "3x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rusted_Gear.png"
+  },
+  {
+    "name": "Rusted Shut Medical Kit",
+    "rarity": "Rare",
+    "recycles_to": "2x Syringe, 1x Antiseptic",
+    "sell_price": 2000,
+    "max_stack_size": 1,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "3x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rusted_Shut_Medical_Kit.png"
+  },
+  {
+    "name": "Rusted Tools",
+    "rarity": "Rare",
+    "recycles_to": "8x Metal Parts, 1x Steel Spring",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "3x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rusted_Tools.png"
+  },
+  {
+    "name": "Rusty ARC Steel",
+    "rarity": "Uncommon",
+    "recycles_to": "8x Metal Parts",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Rusty_ARC_Steel.png"
+  },
+  {
+    "name": "Sample Cleaner",
+    "rarity": "Rare",
+    "recycles_to": "2x Electrical Components, 14x Assorted Seeds",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Sample_Cleaner.png"
+  },
+  {
+    "name": "Sensors",
+    "rarity": "Rare",
+    "recycles_to": "2x Wires, 2x Metal Parts",
+    "sell_price": 500,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "20x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Sensors.png"
+  },
+  {
+    "name": "Sentinel Firing Core",
+    "rarity": "Rare",
+    "recycles_to": "2x ARC Alloy, 3x Mechanical Components",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "4x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Sentinel_Firing_Core.png"
+  },
+  {
+    "name": "Shredder Gyro",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Mechanical Components, 3x ARC Alloy",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Shredder_Gyro.png"
+  },
+  {
+    "name": "Signal Amplifier",
+    "rarity": "Rare",
+    "recycles_to": "2x Electrical Components, 2x Voltage Converter",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Signal_Amplifier.png"
+  },
+  {
+    "name": "Silver Teaspoon Set",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Silver_Teaspoon_Set.png"
+  },
+  {
+    "name": "Simple Gun Parts",
+    "rarity": "Uncommon",
+    "recycles_to": "2x Metal Parts",
+    "sell_price": 330,
+    "max_stack_size": 10,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Simple_Gun_Parts.png"
+  },
+  {
+    "name": "Snitch Scanner",
+    "rarity": "Uncommon",
+    "recycles_to": "4x ARC Alloy, 2x Electrical Components",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "6x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Snitch_Scanner.png"
+  },
+  {
+    "name": "Spaceport Container Storage Key",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Spaceport_Container_Storage_Key.png"
+  },
+  {
+    "name": "Spaceport Control Tower Key",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "1x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Spaceport_Control_Tower_Key.png"
+  },
+  {
+    "name": "Spaceport Trench Tower Key",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "1x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Spaceport_Trench_Tower_Key.png"
+  },
+  {
+    "name": "Spaceport Warehouse Key",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Spaceport_Warehouse_Key.png"
+  },
+  {
+    "name": "Speaker Component",
+    "rarity": "Rare",
+    "recycles_to": "2x Plastic Parts, 2x Rubber Parts",
+    "sell_price": 500,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Speaker_Component.png"
+  },
+  {
+    "name": "Spectrometer",
+    "rarity": "Rare",
+    "recycles_to": "1x Advanced Electrical Components, 1x Sensors",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Spectrometer.png"
+  },
+  {
+    "name": "Spectrum Analyzer",
+    "rarity": "Epic",
+    "recycles_to": "1x Sensors, 1x Exodus Modules",
+    "sell_price": 3500,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Spectrum_Analyzer.png"
+  },
+  {
+    "name": "Spring Cushion",
+    "rarity": "Rare",
+    "recycles_to": "2x Durable Cloth, 2x Steel Spring",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Spring_Cushion.png"
+  },
+  {
+    "name": "Spotter Relay",
+    "rarity": "Uncommon",
+    "recycles_to": "2x Electrical Components, 1x ARC Alloy",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Spotter_Relay.png"
+  },
+  {
+    "name": "Statuette",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Statuette.png"
+  },
+  {
+    "name": "Steel Spring",
+    "rarity": "Uncommon",
+    "recycles_to": "3x Metal Parts",
+    "sell_price": 300,
+    "max_stack_size": 15,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "15x Expedition",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Steel_Spring.png"
+  },
+  {
+    "name": "Stella Montis Archives Key",
+    "rarity": "Epic",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Stella_Montis_Archives_Key.png"
+  },
+  {
+    "name": "Stella Montis Assembly Admin Key",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Stella_Montis_Assembly_Admin_Key.png"
+  },
+  {
+    "name": "Stella Montis Medical Storage Key",
+    "rarity": "Uncommon",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Stella_Montis_Medical_Storage_Key.png"
+  },
+  {
+    "name": "Stella Montis Security Checkpoint Key",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 100,
+    "max_stack_size": 1,
+    "category": "Key",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Stella_Montis_Security_Checkpoint_Key.png"
+  },
+  {
+    "name": "Surveyor Vault",
+    "rarity": "Rare",
+    "recycles_to": "2x Mechanical Components, 2x ARC Alloy",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "5x Workshop, 1x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Surveyor_Vault.png"
+  },
+  {
+    "name": "Synthesized Fuel",
+    "rarity": "Rare",
+    "recycles_to": "1x Oil, 1x Plastic Parts",
+    "sell_price": 700,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "3x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Synthesized_Fuel.png"
+  },
+  {
+    "name": "Syringe",
+    "rarity": "Rare",
+    "recycles_to": "3x Plastic Parts, 2x Chemicals",
+    "sell_price": 500,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "1x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Syringe.png"
+  },
+  {
+    "name": "Tattered ARC Lining",
+    "rarity": "Uncommon",
+    "recycles_to": "12x Fabric",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Tattered_ARC_Lining.png"
+  },
+  {
+    "name": "Tattered Clothes",
+    "rarity": "Uncommon",
+    "recycles_to": "11x Fabric",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Tattered_Clothes.png"
+  },
+  {
+    "name": "Telemetry Transceiver",
+    "rarity": "Rare",
+    "recycles_to": "1x Advanced Electrical Components, 1x Processor",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Telemetry_Transceiver.png"
+  },
+  {
+    "name": "Thermostat",
+    "rarity": "Rare",
+    "recycles_to": "6x Rubber Parts, 2x Sensors",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Thermostat.png"
+  },
+  {
+    "name": "Tick Pod",
+    "rarity": "Uncommon",
+    "recycles_to": "1x Chemicals, 1x Metal Parts",
+    "sell_price": 640,
+    "max_stack_size": 5,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "8x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Tick_Pod.png"
+  },
+  {
+    "name": "Toaster",
+    "rarity": "Rare",
+    "recycles_to": "5x Plastic Parts, 3x Wires",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "3x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Toaster.png"
+  },
+  {
+    "name": "Torn Book",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 1000,
+    "max_stack_size": 5,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Torn_Book.png"
+  },
+  {
+    "name": "Torn Blanket",
+    "rarity": "Rare",
+    "recycles_to": "12x Fabric",
+    "sell_price": 640,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Torn_Blanket.png"
+  },
+  {
+    "name": "Turbo Pump",
+    "rarity": "Rare",
+    "recycles_to": "1x Mechanical Components, 3x Oil",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Turbo_Pump.png"
+  },
+  {
+    "name": "Unusable Weapon",
+    "rarity": "Rare",
+    "recycles_to": "4x Metal Parts, 5x Simple Gun Parts",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Unusable_Weapon.png"
+  },
+  {
+    "name": "Vase",
+    "rarity": "Rare",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 3000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Vase.png"
+  },
+  {
+    "name": "Very Comfortable Pillow",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 2000,
+    "max_stack_size": 3,
+    "category": "Trinket",
+    "keep_for_quests_workshop": "3x Scrappy",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Very_Comfortable_Pillow.png"
+  },
+  {
+    "name": "Volcanic Rock",
+    "rarity": "Common",
+    "recycles_to": "Cannot be recycled",
+    "sell_price": 270,
+    "max_stack_size": 5,
+    "category": "Misc",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Volcanic_Rock.png"
+  },
+  {
+    "name": "Voltage Converter",
+    "rarity": "Rare",
+    "recycles_to": "1x Wires, 1x Rubber Parts",
+    "sell_price": 500,
+    "max_stack_size": 5,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Voltage_Converter.png"
+  },
+  {
+    "name": "Wasp Driver",
+    "rarity": "Rare",
+    "recycles_to": "1x ARC Alloy, 1x Electrical Components",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "8x Workshop",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Wasp_Driver.png"
+  },
+  {
+    "name": "Water Filter",
+    "rarity": "Rare",
+    "recycles_to": "2x Rubber Parts, 3x Canister",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Water_Filter.png"
+  },
+  {
+    "name": "Water Pump",
+    "rarity": "Rare",
+    "recycles_to": "4x Metal Parts, 2x Oil",
+    "sell_price": 1000,
+    "max_stack_size": 3,
+    "category": "Recyclable",
+    "keep_for_quests_workshop": "1x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Water_Pump.png"
+  },
+  {
+    "name": "Wires",
+    "rarity": "Uncommon",
+    "recycles_to": "2x Rubber Parts",
+    "sell_price": 200,
+    "max_stack_size": 15,
+    "category": "Topside Material",
+    "keep_for_quests_workshop": "30x Expedition, 3x Quest",
+    "image": "https://arcraiders.wiki/wiki/Special:Filepath/Wires.png"
+  }
+]

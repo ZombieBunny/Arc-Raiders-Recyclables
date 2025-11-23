@@ -2,12 +2,14 @@ import { useState } from "react";
 import { Search, Package } from "lucide-react";
 import { Input } from "./components/ui/input";
 import { Badge } from "./components/ui/badge";
-import data from "../arc_raiders_items.json";
+import data from "../raider-items-v2.json";
+// import data from "../arc_raiders_items.json";
 
 interface Item {
   name: string;
   rarity: string;
-  recycles_to: Record<string, number>;
+  recycles_to: string;
+  // recycles_to: Record<string, number>;
   sell_price: number;
   category: string;
   image?: string;
@@ -71,7 +73,7 @@ export default function App() {
     if (!searchQuery) return true;
     const recyclesToString =
       item && item.recycles_to
-        ? Object.keys(item.recycles_to).join(",").toLowerCase()
+        ? item.recycles_to.toLowerCase()
         : "";
     return recyclesToString.includes(searchQuery.toLowerCase());
   });
@@ -150,7 +152,8 @@ export default function App() {
                 <div className="flex items-start gap-4">
                   {/* Icon/Image Placeholder */}
                   <div className="flex-shrink-0 w-16 h-16 bg-gradient-to-br from-slate-100 to-slate-200 rounded-lg flex items-center justify-center">
-                    <Package className="w-8 h-8 text-slate-400" />
+                    {/* <Package className="w-8 h-8 text-slate-400" /> */}
+                    <img src={item.image}/>
                   </div>
 
                   {/* Content */}
@@ -170,14 +173,15 @@ export default function App() {
                       <div>
                         <span className="text-slate-500 mr-2">Recycles into:</span>
                         <span className="text-slate-700">
-                                  {item && item.recycles_to
+                                  {item && item.recycles_to ? item?.recycles_to : "none"}
+                                  {/* {item && item.recycles_to
                             ? Object.entries(item?.recycles_to)
                                 .map(
                                   ([material, count]) =>
                                     `${material} (×${count})`
                                 )
                                 .join(", ")
-                            : "none"}
+                            : "none"} */}
                         </span>
                       </div>
 
