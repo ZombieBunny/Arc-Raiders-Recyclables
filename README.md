@@ -11,6 +11,3 @@ Need a part? search and see what you need to recycle to get that part!
   
   [DEMO](https://zombiebunny.github.io/Arc-Raiders-Recyclables/)
   
-
-<script type="module" crossorigin src="/Arc-Raiders-Recyclables/assets/index-ByZqdq0M.js"></script>
-<link rel="stylesheet" crossorigin href="/Arc-Raiders-Recyclables/assets/index-DkWTFnqO.css">
